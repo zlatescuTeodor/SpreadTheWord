@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Depozit\\IT_Projects\\GitHub_Repositories\\SpreadTheWorld\\SpreadTheWord\\SpreadTheWord.csproj": {}
+    "C:\\Users\\User\\Documents\\Visual Studio Projects\\Github\\SpreadTheWorld\\SpreadTheWord\\SpreadTheWord.csproj": {}
   },
   "projects": {
-    "E:\\Depozit\\IT_Projects\\GitHub_Repositories\\SpreadTheWorld\\SpreadTheWord\\SpreadTheWord.csproj": {
+    "C:\\Users\\User\\Documents\\Visual Studio Projects\\Github\\SpreadTheWorld\\SpreadTheWord\\SpreadTheWord.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Depozit\\IT_Projects\\GitHub_Repositories\\SpreadTheWorld\\SpreadTheWord\\SpreadTheWord.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\Visual Studio Projects\\Github\\SpreadTheWorld\\SpreadTheWord\\SpreadTheWord.csproj",
         "projectName": "SpreadTheWord",
-        "projectPath": "E:\\Depozit\\IT_Projects\\GitHub_Repositories\\SpreadTheWorld\\SpreadTheWord\\SpreadTheWord.csproj",
-        "packagesPath": "C:\\Users\\NUMB\\.nuget\\packages\\",
-        "outputPath": "E:\\Depozit\\IT_Projects\\GitHub_Repositories\\SpreadTheWorld\\SpreadTheWord\\obj\\",
+        "projectPath": "C:\\Users\\User\\Documents\\Visual Studio Projects\\Github\\SpreadTheWorld\\SpreadTheWord\\SpreadTheWord.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Documents\\Visual Studio Projects\\Github\\SpreadTheWorld\\SpreadTheWord\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\NUMB\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
